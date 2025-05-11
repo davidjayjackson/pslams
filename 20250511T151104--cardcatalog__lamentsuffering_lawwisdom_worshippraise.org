@@ -1,0 +1,19 @@
+#+title:      cardcatalog
+#+date:       [2025-05-11 Sun 15:11]
+#+filetags:   :lamentsuffering:lawwisdom:worshippraise:
+#+identifier: 20250511T151104
+
+#+title: Psalm Themes with Dewey Decimal Classification
+
+| Theme                   | DDC Number | Description                                |
+|-------------------------+------------+--------------------------------------------|
+| Book of Psalms          |      223.2 | Psalms — Poetic books of the Old Testament |
+| Wisdom & Instruction    |      223.2 | Poetic books — Wisdom and teaching         |
+| Zion & Temple           |      221.6 | OT historical geography & worship          |
+| Trust & Deliverance     |        231 | God's nature — Deliverance and providence  |
+| Messiah & Kingship      |      232.9 | Christology — Messiah and divine kingship  |
+| Justice & Righteousness |      241.6 | Moral theology — Justice, ethics           |
+| Thanksgiving            |        242 | Devotional literature — Gratitude          |
+| Prayer & Devotion       |      242.5 | Personal devotion and prayer               |
+| Worship & Praise        |        264 | Public worship and praise                  |
+| Lament & Suffering      |     248.86 | Grief, spiritual struggle, and comfort     |
