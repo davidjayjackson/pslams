@@ -1,0 +1,24 @@
+#+title:      bible_cardcatalog
+#+date:       [2025-05-11 Sun 19:47]
+#+filetags:   :hymn:
+#+identifier: 20250511T194705
+
+| DDC    | Theme                   | Category                                              |
+|--------+-------------------------+--------------------------------------------------------|
+| 200    | Religion                | Religion                                               |
+| 210    | Philosophy & theory     | Philosophy & theory of religion                        |
+| 220    | The Bible               | The Bible                                              |
+| 221.6  | Zion & Temple           | Old Testament historical geography & worship           |
+| 223.2  | Book of Psalms          | Psalms — Poetic books of the Old Testament             |
+| 223.2  | Wisdom & Instruction    | Poetic books — Wisdom and teaching                     |
+| 230    | Christian theology      | Christian theology                                     |
+| 231    | Trust & Deliverance     | God's nature — Deliverance and providence              |
+| 232.9  | Messiah & Kingship      | Christology — Messiah and divine kingship              |
+| 240    | Christian moral theology| Christian moral & devotional theology                  |
+| 241.6  | Justice & Righteousness | Moral theology — Justice, ethics                       |
+| 242    | Thanksgiving            | Devotional literature — Gratitude                      |
+| 248.4  | Christian life          | Sanctification and spiritual growth                    |
+| 242.5  | Prayer & Devotion       | Personal devotion and prayer                           |
+| 248.86 | Lament & Suffering      | Grief, spiritual struggle, and comfort                 |
+| 250    | Christian orders        | Christian orders & local church                        |
+| 264    | Worship & Praise        | Public worship and praise                              |

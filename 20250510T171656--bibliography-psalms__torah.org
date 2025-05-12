@@ -1,11 +1,9 @@
-#+title:      bibliography_psalms
+:      bibliography_psalms
 #+date:       [2025-05-10 Sat 17:16]
 #+filetags:   :torah:
 #+identifier: 20250510T171656
 
-
-|DDC1|DDC2 |Title|Subtitle| Author|
-|------|------|--------------|-----------------------------------------------------------|
-|248.4|248.4| Alphabet The Golden The|Commentary on Psalm 119| C.H. Spurgeon's |
-|223.2|248.3| Psalms On the Book of |Exploration the Prayers of Ancient Israel|Nahum M. Sarna|
-|220.52|220.2|Thompson's Chain-Reference Bible||Dr. Frank Charles Thompson(and Wife)|
+|   DDC | Title                   | Sub-Title                                 | Author         |
+|-------+-------------------------+-------------------------------------------+----------------|
+| 223.2 | Alphabet The Golden The | Commentary on Psalm 119                   | C.H. Spurgeon  |
+| 223.2 | Psalms On the Book of   | Exploration the Prayers of Ancient Israel | Nahum M. Sarna |
