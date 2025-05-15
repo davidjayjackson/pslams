@@ -3,7 +3,9 @@
 #+filetags:   :torah:
 #+identifier: 20250510T171656
 
-|   DDC | Title                   | Sub-Title                                 | Author         |
-|-------+-------------------------+-------------------------------------------+----------------|
-| 223.2 | Alphabet The Golden The | Commentary on Psalm 119                   | C.H. Spurgeon  |
-| 223.2 | Psalms On the Book of   | Exploration the Prayers of Ancient Israel | Nahum M. Sarna |
+| Ref  | Title                   | Sub-Title                                 | Author                    |
+|------+-------------------------+-------------------------------------------+---------------------------|
+| B200 | Alphabet The Golden The | Commentary on Psalm 119                   | C.H. Spurgeon             |
+| B250 | Psalms On the Book of   | Exploration the Prayers of Ancient Israel | Nahum M. Sarna            |
+| B100 | The Bible               | The American Standard Version (1901)      | Nelson -a- Sons Publisher |
+|      |                         |                                           |                           |

@@ -1,0 +1,9 @@
+#+title:      b200-Thompson-Chain-Reference-Bible
+#+date:       [2025-05-13 Tue 22:28]
+#+filetags:   :bible:prayer:wisdon:
+#+identifier: 20250513T222822
+
+Title: The Thompson's Chain-Reference Bible
+Sub-title: Kings James Version Old and New Testaments
+Publiser: Zondervan, Grand Rapids, MI
+Date: 2022
